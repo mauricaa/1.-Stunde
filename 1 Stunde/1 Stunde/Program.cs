@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-Console.Write("Döner oder so");
+Console.WriteLine("Döner oder so");
