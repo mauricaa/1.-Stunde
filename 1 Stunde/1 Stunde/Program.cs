@@ -121,6 +121,6 @@ class Program
 }
 
 //1. theoretische: if Bedingungen, switch, for, string
-//2. theoretische: Clean Code das man es besser erkent bzw verstehen kann lesen. CamelCasing, DRY, 
+//2. theoretische: Clean Code das man es besser erkent bzw verstehen kann lesen. CamelCasing, DRY,
 //3. theoretische: bei parse muss man catch einbauen sonnst ist es sehr gefährlich
 //4. theoretische: Integer mit dem Wert 42 und heisst myInt
